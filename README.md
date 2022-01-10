@@ -1,4 +1,4 @@
-# App (app-wine-list) for API (api-wine-list)
+**App** (app-wine-list) for API (api-wine-list)
 
 _Nom de l'application_ : **Wine App**
 
